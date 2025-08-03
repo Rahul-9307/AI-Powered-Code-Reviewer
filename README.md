@@ -54,4 +54,4 @@ AI-Powered-Code-Reviewer/
 
 ---
 
-<p align="center">Made with ❤️ by <b>Rahul Patil</b> | Empowering Code with Intelligence</p>
+<p align="center">Made with ❤️ by <b>Rahul Patil</b></p>
