@@ -3,6 +3,7 @@
 <p align="center">
   <b>Intelligent code review system using Gemini AI</b><br>
   Built with <code>React.js</code>, <code>Node.js</code>, <code>MongoDB</code>, and <code>Gemini AI</code><br>
+  🌐 <a href="https://ai-powered-code-reviewer-rahultech.netlify.app/" target="_blank"><b>Live Demo</b></a>
 </p>
 
 ---
@@ -39,4 +40,4 @@
 
 ## 📂 Folder Structure
 
-<p align="center">Made with ❤️ by <b>Rahul Patil</b></p> ```
+<p align="center">Made with ❤️ by <b>Rahul Patil</b></p>
